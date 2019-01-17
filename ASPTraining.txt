@@ -1,0 +1,8 @@
+UserName,Password,Email,Country
+Alex,5678,alex.80@gmail.com,Italy
+Jim Philips,78910,,
+John,5678,john.80@gmail.com,USA
+Michael,1234,michael@gmail.com,UK
+Nick,5678,nick.80@gmail.com,Australia
+Patrik,1234,patrik@gmail.com,USA
+Rashim,1234,rashim@gmail.com,India
